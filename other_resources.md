@@ -14,5 +14,5 @@ https://arxiv.org/abs/2004.11795
 **Attention Is All You Need (Transformer):** Foundational paper introducing Transformers \
 https://arxiv.org/abs/1706.03762
 
-**ByT5: Towards a token-free future with pre-trained byte-to-byte models** \n
+**ByT5: Towards a token-free future with pre-trained byte-to-byte models** \
 https://arxiv.org/abs/2105.13626

@@ -3,6 +3,23 @@
 A curated list of resources available in the field of sanskrit (open-domain).
 
 # Research Papers
+
+**Building a Word Segmenter for Sanskrit Overnight**
+**Seq2seq model for Sanskrit word segmentation**
+https://arxiv.org/abs/1802.06185
+
+**Word Segmentation in Sanskrit Using Path-Constrained Random Walks**
+https://aclanthology.org/C16-1048/
+
+**Sanskrit Word Segmentation Using Character-Level Recurrent and CNNs**
+https://aclanthology.org/D18-1295.pdf
+
+
+**Tagger: An Energy-Based Model for Word Segmentation & Morphological Tagging in Sanskrit**
+**Free as in Free Word Order…**
+https://arxiv.org/abs/1809.01446
+
+
 **TransLIST: A Transformer-Based Linguistically Informed Sanskrit Tokenizer**
 https://arxiv.org/pdf/2210.11753
 
@@ -13,9 +30,8 @@ https://www.arxiv.org/pdf/2407.06331v1
 https://arxiv.org/pdf/2302.09527
 
 **One Model is All You Need: ByT5-Sanskrit**
-
 Unified pretrained model for Sanskrit NLP tasks (segmentation, tagging, parsing, OCR).
-🔗 https://arxiv.org/abs/2409.13920
+https://arxiv.org/abs/2409.13920
 
 # Datasets
 **Data for the quantitative study of (Vedic) Sanskrit.**

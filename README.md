@@ -2,7 +2,7 @@
 
 A curated list of resources available in the field of sanskrit (open-domain).
 
-# Research Papers
+## Research Papers
 
 **Building a Word Segmenter for Sanskrit Overnight:**
 Seq2seq model for Sanskrit word segmentation \
@@ -33,7 +33,7 @@ https://arxiv.org/pdf/2302.09527
 Unified pretrained model for Sanskrit NLP tasks (segmentation, tagging, parsing, OCR). \
 https://arxiv.org/abs/2409.13920
 
-# Datasets
+## Datasets
 **Data for the quantitative study of (Vedic) Sanskrit.** \
 https://github.com/OliverHellwig/sanskrit
 
@@ -53,7 +53,7 @@ https://arxiv.org/pdf/2211.07980
 **Itihasa dataset**: Itihāsa is a Sanskrit-English translation corpus containing 93,000 Sanskrit shlokas and their English translations. \
 https://huggingface.co/datasets/rahular/itihasa
 
-# Sanksrit Tools
+## Sanksrit Tools
 **Sanskrit Heritage Reader:** A comprehensive Sanskrit computational platform providing digital dictionaries, grammatical analysis, and text parsing tools. \
 https://sanskrit.inria.fr/
 

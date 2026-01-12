@@ -53,6 +53,9 @@ https://arxiv.org/pdf/2211.07980
 **Itihasa dataset**: Itihāsa is a Sanskrit-English translation corpus containing 93,000 Sanskrit shlokas and their English translations. \
 https://huggingface.co/datasets/rahular/itihasa
 
+**Data powering ashtadhyayi.com** \
+https://github.com/ashtadhyayi-com/data
+
 ## Sanksrit Tools
 **Sanskrit Heritage Reader:** A comprehensive Sanskrit computational platform providing digital dictionaries, grammatical analysis, and text parsing tools. \
 https://sanskrit.inria.fr/

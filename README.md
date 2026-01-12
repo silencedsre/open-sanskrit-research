@@ -62,3 +62,7 @@ https://sanskrit.uohyd.ac.in/scl/#
 
 **Sanskrit Activities at IIT Kanpur** \
 https://sanskrit.iitk.ac.in/
+
+**Ambuda Vidyut:**
+Reliable infrastructure for Sanskrit software. \
+https://github.com/ambuda-org/vidyut

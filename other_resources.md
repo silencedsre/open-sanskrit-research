@@ -17,5 +17,5 @@ https://arxiv.org/abs/1706.03762
 **ByT5: Towards a token-free future with pre-trained byte-to-byte models** \
 https://arxiv.org/abs/2105.13626
 
-**Byte Latent Transformer: Patches Scale Better Than Tokens** \n
+**Byte Latent Transformer: Patches Scale Better Than Tokens** \
 https://arxiv.org/pdf/2412.09871

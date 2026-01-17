@@ -72,3 +72,7 @@ https://github.com/ambuda-org/vidyut
 
 **Panini Tokenizer**
 https://huggingface.co/ArthaLabs/panini-tokenizer
+
+**Panini-LLM: Sanskrit Karaka Disambiguator**
+Panini-LLM is a fine-tuned version of Llama-2-7b, specifically optimized for Karaka (case role) disambiguation in Sanskrit. It maps nouns in a sentence to their specific Pāṇinian grammatical roles (K1 through K7).
+https://huggingface.co/govindreddy99/Panini-LLM-Sanskrit

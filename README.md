@@ -69,3 +69,6 @@ https://sanskrit.iitk.ac.in/
 **Ambuda Vidyut:**
 Reliable infrastructure for Sanskrit software. \
 https://github.com/ambuda-org/vidyut
+
+**Panini Tokenizer**
+https://huggingface.co/ArthaLabs/panini-tokenizer
